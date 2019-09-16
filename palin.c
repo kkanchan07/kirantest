@@ -1,5 +1,5 @@
 #include <stdio.h>
-void palin()
+palin()
 {
     int n, reversedInteger = 0, remainder, originalInteger;
     printf("\n Enter an integer: ");

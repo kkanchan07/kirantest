@@ -16,5 +16,9 @@ fact()
         }
         printf("Factorial of %d = %llu", n, factorial);
     }
+<<<<<<< HEAD
    
+=======
+    
+>>>>>>> 9f12043b9cbc598f5038b9890d103616452fd7a2
 }

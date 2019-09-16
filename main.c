@@ -4,4 +4,5 @@ void main()
 big();
 fact();
 palin();
+rev();
 }

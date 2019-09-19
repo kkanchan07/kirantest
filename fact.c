@@ -10,10 +10,10 @@ fact()
         printf("\n Error! Factorial of a negative number doesn't exist.");
     else
     {
-        for(i=1; i<=n; ++i)
+       // for(i=1; i<=n; ++i)
         {
             factorial *= i;              // factorial = factorial*i;
         }
-      //  printf("\n Factorial of %d = %llu", n, factorial);
+      printf("\n Factorial of %d = %llu", n, factorial);
     }
 }

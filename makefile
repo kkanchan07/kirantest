@@ -10,4 +10,5 @@ fact.o : fact.c
 	gcc -c fact.c
 palin.o : palin.c
 	gcc -c palin.c
-
+CLEAR:
+	rm -rf *.o

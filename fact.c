@@ -14,6 +14,6 @@ fact()
         {
             factorial *= i;              // factorial = factorial*i;
         }
-        printf("\n Factorial of %d = %llu", n, factorial);
+      //  printf("\n Factorial of %d = %llu", n, factorial);
     }
 }

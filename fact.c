@@ -5,12 +5,12 @@ fact()
     unsigned long long factorial = 1;
     printf("\n Enter the number factorial ");
     scanf("%d",&n);
-    // show error if the user enters a negative integer
+       show error if the user enters a negative integer
     if (n < 0)
         printf("\n Error! Factorial of a negative number doesn't exist.");
     else
     {
-       // for(i=1; i<=n; ++i)
+        for(i=1; i<=n; ++i)
         {
             factorial *= i;              // factorial = factorial*i;
         }

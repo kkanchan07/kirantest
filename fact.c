@@ -6,7 +6,7 @@ int fact()
     printf("\n Enter the number factorial ");
     scanf("%d",&n);
     // show error if the user enters a negative integer
-    // testing
+    // testing for jenkins
     if (n < 0)
         printf("\n Error! Factorial of a negative number doesn't exist.");
     else
